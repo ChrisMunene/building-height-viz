@@ -1,0 +1,92 @@
+/* custom css rules */
+
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: antiquewhite;
+}
+
+h1 {
+}
+
+.label {
+  font-size: 13px;
+}
+
+.height {
+  fill: white;
+  font-size: 13px;
+}
+
+#main-title {
+  font-size: 40px;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+#image {
+  margin-top: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+#svg-container {
+  border-right: 2px dotted gray;
+  margin-right: 10px;
+}
+
+#details {
+  padding-top: 30px;
+}
+
+#building-image {
+  align-self: center;
+}
+
+.parent-container {
+  text-align: start;
+}
+
+#title-container {
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(238, 210, 173);
+  align-self: flex-start;
+  width: 50%;
+}
+
+.table-title {
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.table-body {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.details-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.bottom-label {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 10px;
+}
+
+.bar {
+  cursor: pointer;
+}
+
+.label {
+  cursor: pointer;
+}
+
+.link {
+  margin-top: 20px;
+}
